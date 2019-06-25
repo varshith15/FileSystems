@@ -1,0 +1,4 @@
+- Direct Memory acess blocks and index acess blocks are initialzed to -1 
+- While delteling a directory if files are present in the directory it is not getting deleted
+- Ignoring size in directory inode
+- if the string cannot be written completely due to insufficiency it is written partial to file
